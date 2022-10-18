@@ -2452,6 +2452,9 @@ Please keep the list in alphabetical order by last name!
  trac="brant,brant.c.jones"/>
 <contributor
  name="John Jones"
+ work="Professor emeritus, Arizona State University"
+ location="Tempe, Arizona"
+ github="jwj61"
  trac="jwj"/>
 <contributor
  name="Anders Jonsson"
